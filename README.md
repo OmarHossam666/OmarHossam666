@@ -14,6 +14,6 @@ I'm diving deep into mobile app development using Dart and Flutter while constan
 I strive to write clean and maintainable code and build useful apps that solve real-world problems.
 
 ## 🌐 Connect with me
-- [LinkedIn](www.linkedin.com/in/omar-hossam-18b235265)
+- [LinkedIn](https://www.linkedin.com/in/omar-hossam-18b235265/)
 
 Looking forward to collaborating and learning from the GitHub community! 😄
