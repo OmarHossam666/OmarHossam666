@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Omar Hossam Fathey 👋
 
-<!--
-**OmarHossam666/OmarHossam666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student at New Mansoura University**  
+💻 **Dart and Flutter Developer**  
+🌱 **Currently learning and building awesome mobile apps**
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: Python, C++, C#, Dart
+- **Framework**: Flutter
+- **Other**: Clean Code, Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+I'm diving deep into mobile app development using Dart and Flutter while constantly improving my problem-solving skills.
+I strive to write clean and maintainable code and build useful apps that solve real-world problems.
+
+## 🌐 Connect with me
+- [LinkedIn](www.linkedin.com/in/omar-hossam-18b235265)
+
+Looking forward to collaborating and learning from the GitHub community! 😄
