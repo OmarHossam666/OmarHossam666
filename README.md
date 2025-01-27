@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Mobile Development & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/OmarHossam666](https://github.com/OmarHossam666)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/OmarHossam666)
 
-- 📝 I regularly read articles on [https://app.daily.dev/](https://app.daily.dev/)
+- 📝 I regularly read articles on [Daily.Dev](https://app.daily.dev/)
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Sqlite, Hive and etc.**
 
-- 📫 How to reach me **hossamsellow66@gmail.com**
+- 📫 How to reach me [**hossamsellow66@gmail.com**](mailto:hossamsellow66@gmail.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13mGQWb7QmOnrNynAnAhRUJjjEiWOVUBG/view?usp=drive_link](https://drive.google.com/file/d/13mGQWb7QmOnrNynAnAhRUJjjEiWOVUBG/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/13mGQWb7QmOnrNynAnAhRUJjjEiWOVUBG/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
