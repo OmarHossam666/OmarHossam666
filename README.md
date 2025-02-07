@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhossam666&show_icons=true&locale=en" alt="omarhossam666" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhossam666&" alt="omarhossam666" /></p>
+
+<a href="https://app.daily.dev/omar_hossam_6"><img src="https://api.daily.dev/devcards/v2/w1FpI8GiKLJAKwl2bF49I.png?type=default&r=wgk" width="356" alt="Omar Hossam's Dev Card"/></a>
