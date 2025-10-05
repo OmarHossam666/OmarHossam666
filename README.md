@@ -9,6 +9,7 @@ I dive deep into emerging tech, wiring up AI features with the <b>Gemini API</b>
 
 </p>
 </div>
+
 ### 🏆 Featured Project: Kidventure
 <table>
 <tr>
