@@ -1,5 +1,5 @@
 # Hi there, I'm Omar Hossam 👋
-<div align="center">
+<div>
 
 ## Mobile Application Developer Crafting Intelligent Mobile Solutions 👨‍💻
 <p>
