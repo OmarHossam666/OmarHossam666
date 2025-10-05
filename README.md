@@ -1,5 +1,79 @@
-# 💫 About Me:
-Hi there, I'm Omar Hossam 👋<br>I'm a Computer Science undergraduate specializing in Mobile Development and Artificial Intelligence. I am passionate about building innovative, cross-platform applications with Dart, Flutter, and KMP. I have hands-on experience integrating emerging technologies, from leveraging the Gemini API for AI-powered features to integrating Unity for 3D/VR capabilities in my Flutter projects.<br><br>🏆<br><br>My proudest achievement is leading the development of 'Kidventure', an educational app that won 1st place and a 30,000 EGP prize at the Creativa Transformation Marathon 4.0. This app gamifies learning for children using an AI chatbot, interactive 3D models, educational games, and more.<br><br>Here's a quick look at my skills and focus:<br><br>🚀<br><br>Mobile Development: Building robust, scalable applications using Flutter, Dart, Firebase, and various state management techniques.<br><br>🧠<br><br>AI & Machine Learning: Integrating advanced conversational AI using Google's Gemini API and implementing TTS/STT engines.<br><br>🧩<br><br>Problem Solving: Actively honing my skills by solving over 400 coding challenges on CodeWars and Codeforces. I have also competed in the International Collegiate Programming Contest (ICPC) in 2022 & 2023.<br><br>🛠️ Tools & Technologies:<br><br>Languages: Dart, C++, SQL, NoSQL <br><br>Frameworks & SDKs: Flutter, Firebase, Supabase, Hive <br><br>Developer Tools: Git, GitHub <br><br>Methodologies: Clean Architecture, Clean Code, UI/UX Design <br><br>📫 Let's Connect:<br><br>LinkedIn: https://www.linkedin.com/in/omar-hossam-fathey <br><br>Email: hossamsellow66@gmail.com
+# Hi there, I'm Omar Hossam 👋
+<div align="center">
+
+Omar Hossam // Mobile Application Developer 👨‍💻
+<p align="center">
+A Computer Science undergraduate on a mission to build slick, cross-platform mobile apps using <b>Dart</b>, <b>Flutter</b>, and <b>KMP</b>.
+
+
+
+I dive deep into emerging tech, wiring up AI features with the <b>Gemini API</b> and even integrating <b>Unity</b> for 3D/VR experiences in my Flutter projects.
+
+
+</p>
+</div>
+
+🏆 Featured Project: Kidventure
+<table>
+<tr>
+<td>
+I led the development of 'Kidventure,' the award-winning educational app that snagged <b>🥇 1st place and a 30,000 EGP prize</b> at the Creativa Transformation Marathon 4.0. It's designed to gamify learning for children in early primary school (KG-P3) with a full suite of features including an AI chatbot, interactive 3D models, educational games, and more.
+
+
+
+
+
+<sub><b>Tech Used:</b> Flutter, Dart, Gemini API, 3D, Firebase </sub>
+
+
+</td>
+</tr>
+</table>
+
+🛠️ My Arsenal: Tech & Tools
+<table>
+<tr>
+<td valign="top"><b>Languages</b></td>
+<td><code>Dart</code> <code>C++</code> <code>SQL</code> <code>NoSQL</code> </td>
+
+
+</tr>
+<tr>
+<td valign="top"><b>Frameworks & SDKs</b></td>
+<td><code>Flutter</code> <code>Firebase</code> <code>Supabase</code> <code>Hive</code> <code>ObjectBox</code> <code>SQLite</code> </td>
+
+
+</tr>
+<tr>
+<td valign="top"><b>Methodologies</b></td>
+<td><code>Clean Architecture</code> <code>Clean Code</code> <code>State Management</code> <code>Project Management</code> <code>UI/UX Design</code> </td>
+
+
+</tr>
+<tr>
+<td valign="top"><b>Developer Tools</b></td>
+<td><code>Git</code> <code>GitHub</code> <code>CodeWars</code> <code>Codeforces</code> </td>
+
+
+</tr>
+</table>
+
+🧩 The Coding Grind
+<p>
+I'm always sharpening my problem-solving skills. I've solved over <b>400 coding challenges</b> (300+ on CodeWars, 100+ on Codeforces) and competed in the <b>International Collegiate Programming Contest (ICPC 2022 & 2023)</b>.
+
+
+</p>
+
+📫 Get in Touch
+<p align="center">
+<a href="https://www.linkedin.com/in/omar-hossam-fathey" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:hossamsellow66@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
 
 
 ## 🌐 Socials:
