@@ -1,34 +1,27 @@
-<h1 align="center">Hi 👋, I'm Omar Hossam</h1>
-<h3 align="center">📱 Flutter Developer | 🧠 AI & ML Enthusiast | 💻 CS Student Crafting Intelligent Mobile Solutions</h3>
+# 💫 About Me:
+Hi there, I'm Omar Hossam 👋<br>I'm a Computer Science undergraduate specializing in Mobile Development and Artificial Intelligence. I am passionate about building innovative, cross-platform applications with Dart, Flutter, and KMP. I have hands-on experience integrating emerging technologies, from leveraging the Gemini API for AI-powered features to integrating Unity for 3D/VR capabilities in my Flutter projects.<br><br>🏆<br><br>My proudest achievement is leading the development of 'Kidventure', an educational app that won 1st place and a 30,000 EGP prize at the Creativa Transformation Marathon 4.0. This app gamifies learning for children using an AI chatbot, interactive 3D models, educational games, and more.<br><br>Here's a quick look at my skills and focus:<br><br>🚀<br><br>Mobile Development: Building robust, scalable applications using Flutter, Dart, Firebase, and various state management techniques.<br><br>🧠<br><br>AI & Machine Learning: Integrating advanced conversational AI using Google's Gemini API and implementing TTS/STT engines.<br><br>🧩<br><br>Problem Solving: Actively honing my skills by solving over 400 coding challenges on CodeWars and Codeforces. I have also competed in the International Collegiate Programming Contest (ICPC) in 2022 & 2023.<br><br>🛠️ Tools & Technologies:<br><br>Languages: Dart, C++, SQL, NoSQL <br><br>Frameworks & SDKs: Flutter, Firebase, Supabase, Hive <br><br>Developer Tools: Git, GitHub <br><br>Methodologies: Clean Architecture, Clean Code, UI/UX Design <br><br>📫 Let's Connect:<br><br>LinkedIn: https://www.linkedin.com/in/omar-hossam-fathey <br><br>Email: hossamsellow66@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarhossam666&label=Profile%20views&color=0e75b6&style=flat" alt="omarhossam666" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarhossam666" alt="omarhossam666" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-hossam-fathey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hossamsellow66@gmail.com) 
 
-- 🌱 I’m currently learning **Mobile Development & AI**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OmarHossam666&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OmarHossam666&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarHossam666&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/OmarHossam666)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OmarHossam666&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-- 📝 I regularly read articles on [Daily.Dev](https://app.daily.dev/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 💬 Ask me about **Dart, Flutter, Firebase, Sqlite, Hive and etc.**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OmarHossam666&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me [**hossamsellow66@gmail.com**](mailto:hossamsellow66@gmail.com)
+---
+[![](https://visitcount.itsvg.in/api?id=OmarHossam666&icon=2&color=5)](https://visitcount.itsvg.in)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/17y30X7xJuMh_nkmAo2-c1_BiruzlGzSQ/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omar-hossam-18b235265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omar-hossam-18b235265" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_omar_hossam6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_omar_hossam6/" height="30" width="40" /></a>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarhossam666&show_icons=true&locale=en&layout=compact" alt="omarhossam666" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarhossam666&show_icons=true&locale=en" alt="omarhossam666" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarhossam666&" alt="omarhossam666" /></p>
-
-<a href="https://app.daily.dev/omar_hossam_6"><img src="https://api.daily.dev/devcards/v2/w1FpI8GiKLJAKwl2bF49I.png?type=default&r=wgk" width="356" alt="Omar Hossam's Dev Card"/></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
