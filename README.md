@@ -241,7 +241,11 @@ Creativa Transformation Marathon 4.0
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OmarHossam666/OmarHossam666/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarHossam666/OmarHossam666/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarHossam666/OmarHossam666/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/OmarHossam666/OmarHossam666/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 > **Note:** To enable snake animation, add this to your profile repo. See [Platane/snk](https://github.com/Platane/snk) for setup.
