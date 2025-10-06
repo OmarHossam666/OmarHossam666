@@ -27,9 +27,9 @@
 
 ```typescript
 const OmarHossam = {
-    title: "Mobile Application Architect 🏗️",
-    location: "Alexandria, Egypt 🇪🇬",
-    education: "Computer Science Student 🎓",
+    title: "Mobile Application Developer 🏗️",
+    location: "Cairo, Egypt 🇪🇬",
+    education: "Computer Science Undergraduate 🎓",
     
     mission: {
         primary: "Building intelligent mobile solutions",
